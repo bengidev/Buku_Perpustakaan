@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    compileSdk 31
+    compileSdk 32
 
     defaultConfig {
         applicationId "io.github.syndicate017.bukuperpustakaan"
         minSdk 21
-        targetSdk 31
+        targetSdk 32
         versionCode 1
         versionName "1.0"
 
@@ -38,5 +38,8 @@ dependencies {
 
     //Material Design 3 dependencies for style
     implementation 'com.google.android.material:material:1.6.0-alpha01'
+
+    //Lottie dependencies for create splash screen/animation
+    implementation 'com.airbnb.android:lottie:4.2.2'
 
 }

@@ -5,6 +5,10 @@
       <map>
         <entry key="app/src/main/res/layout/activity_add.xml" value="0.29635416666666664" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.29635416666666664" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.32864583333333336" />
+        <entry key="app/src/main/res/layout/activity_update.xml" value="0.32864583333333336" />
+        <entry key="app/src/main/res/layout/my_row.xml" value="0.5" />
+        <entry key="app/src/main/res/menu/my_menu.xml" value="0.32864583333333336" />
       </map>
     </option>
   </component>
